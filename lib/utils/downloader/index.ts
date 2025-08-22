@@ -48,7 +48,7 @@ export async function stream<T extends boolean = false>(
       retrieve_player: false,
     }));
 
-  const info = await yt.getBasicInfo(vidId, client);
+  const info = await yt.getBasicInfo(vidId, { client });
 
   let fmt = info.chooseFormat(
     options || {
