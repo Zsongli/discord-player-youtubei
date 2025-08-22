@@ -33,7 +33,7 @@
     "format": "prettier --write \"{lib,examples,bin}/**/*.{js,ts}\""
   },
   "bin": "bin/index.js",
-  "packageManager": "yarn@4.3.1",
+  "packageManager": "pnpm@10.6.3",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
