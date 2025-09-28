@@ -21,8 +21,8 @@ importers:
         specifier: ^7.1.0
         version: 7.15.0
       youtubei.js:
-        specifier: ^15.0.1
-        version: 15.0.1
+        specifier: ^15.1.1
+        version: 15.1.1
     devDependencies:
       '@discord-player/extractor':
         specifier: ^7.1.0
@@ -1231,8 +1231,8 @@ packages:
   xmlchars@2.2.0:
     resolution: {integrity: sha512-JZnDKK8B0RCDw84FNdDAIpZK+JuJw+s7Lz8nksI7SIuU3UXJJslUthsi+uWBUYOwPFwW7W7PRLRfUKpxjtjFCw==}
 
-  youtubei.js@15.0.1:
-    resolution: {integrity: sha512-2slapqJS5NuXKHvcACEknyVz0AjH/TrXaOhDM0q2twQKa54kCmfj+7B/2nGfd20uzAe29zW1ejk2qOc4ABuGkg==}
+  youtubei.js@15.1.1:
+    resolution: {integrity: sha512-fuEDj9Ky6cAQg93BrRVCbr+GTYNZQAIFZrx/a3oDRuGc3Mf5bS0dQfoYwwgjtSV7sgAKQEEdGtzRdBzOc8g72Q==}
 
 snapshots:
 
@@ -2314,7 +2314,7 @@ snapshots:
 
   xmlchars@2.2.0: {}
 
-  youtubei.js@15.0.1:
+  youtubei.js@15.1.1:
     dependencies:
       '@bufbuild/protobuf': 2.7.0
       jintr: 3.3.1
