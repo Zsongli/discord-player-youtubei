@@ -22,9 +22,9 @@
   },
   "dependencies": {
     "bgutils-js": "^3.2.0",
-    "jsdom": "^26.1.0",
+    "jsdom": "^27.0.0",
     "tiny-typed-emitter": "^2.1.0",
-    "undici": "^7.1.0",
+    "undici": "^7.16.0",
     "youtubei.js": "^15.1.1"
   },
   "scripts": {
